@@ -1,0 +1,8 @@
+El hilo principal de la aplicacion es:
+	menuUI.py
+Ejecutar este script para iniciar la aplicacion
+
+
+https://stackoverflow.com/questions/42339876/error-unicodedecodeerror-utf-8-codec-cant-decode-byte-0xff-in-position-0-in
+https://stackoverflow.com/questions/4783810/install-tkinter-for-python
+https://stackoverflow.com/questions/19699367/for-line-in-results-in-unicodedecodeerror-utf-8-codec-cant-decode-byte
